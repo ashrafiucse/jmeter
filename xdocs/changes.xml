@@ -57,8 +57,8 @@ JMeter 6.x requires Java 17 or later for execution (Java 21 is recommended).
 Summary
 </p>
 <ul>
-<li><a href="#Changes">Changes</a></li>
 <li><a href="#Incompatible changes">Incompatible changes</a></li>
+<li><a href="#Changes">Changes</a></li>
 <li><a href="#Bug fixes">Bug fixes</a></li>
 </ul>
 
